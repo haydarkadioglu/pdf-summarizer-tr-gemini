@@ -12,7 +12,7 @@ Bu proje, PDF dosyalarını Google Generative AI modelleri kullanarak özetlemek
 
 1. Bu projeyi klonlayın:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/haydarkadioglu/pdf-summarizer-tr-gemini>
    ```
 
 2. Gerekli Python paketlerini yükleyin:
